@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bolu1
-- 👀 I’m interested in Data Analysis and Software Engineering
+- 👀 I’m interested in Software Develeopment
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me boluadetifa@gmail.com
